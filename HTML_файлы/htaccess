@@ -1,0 +1,236 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page153521076.html
+
+RewriteEngine On
+
+RewriteCond %{HTTP:X-Forwarded-Proto} =http
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^spasibo$ page153521086.html [NC]
+RewriteRule ^spasibo/$ page153521086.html [NC]
+
+RewriteRule ^tnvd$ page154679006.html [NC]
+RewriteRule ^tnvd/$ page154679006.html [NC]
+
+RewriteRule ^opressov$ page153521096.html [NC]
+RewriteRule ^opressov/$ page153521096.html [NC]
+
+RewriteRule ^remshatunov$ page153521106.html [NC]
+RewriteRule ^remshatunov/$ page153521106.html [NC]
+
+RewriteRule ^frezerovka$ page153521126.html [NC]
+RewriteRule ^frezerovka/$ page153521126.html [NC]
+
+RewriteRule ^vertrast$ page153521136.html [NC]
+RewriteRule ^vertrast/$ page153521136.html [NC]
+
+RewriteRule ^faskasedla$ page153521146.html [NC]
+RewriteRule ^faskasedla/$ page153521146.html [NC]
+
+RewriteRule ^obrabklapana$ page153521156.html [NC]
+RewriteRule ^obrabklapana/$ page153521156.html [NC]
+
+RewriteRule ^gorizrast$ page153521166.html [NC]
+RewriteRule ^gorizrast/$ page153521166.html [NC]
+
+RewriteRule ^verthoning$ page153521176.html [NC]
+RewriteRule ^verthoning/$ page153521176.html [NC]
+
+RewriteRule ^moechnye$ page153521116.html [NC]
+RewriteRule ^moechnye/$ page153521116.html [NC]
+
+RewriteRule ^politika$ page153521196.html [NC]
+RewriteRule ^politika/$ page153521196.html [NC]
+
+RewriteRule ^ld-1650$ page153526856.html [NC]
+RewriteRule ^ld-1650/$ page153526856.html [NC]
+
+RewriteRule ^ld-1750$ page153568756.html [NC]
+RewriteRule ^ld-1750/$ page153568756.html [NC]
+
+RewriteRule ^ug1000$ page153526866.html [NC]
+RewriteRule ^ug1000/$ page153526866.html [NC]
+
+RewriteRule ^ug1200$ page153526886.html [NC]
+RewriteRule ^ug1200/$ page153526886.html [NC]
+
+RewriteRule ^ug1400$ page153526906.html [NC]
+RewriteRule ^ug1400/$ page153526906.html [NC]
+
+RewriteRule ^ug1500$ page153526916.html [NC]
+RewriteRule ^ug1500/$ page153526916.html [NC]
+
+RewriteRule ^ug1600$ page153526926.html [NC]
+RewriteRule ^ug1600/$ page153526926.html [NC]
+
+RewriteRule ^t8210e$ page153568956.html [NC]
+RewriteRule ^t8210e/$ page153568956.html [NC]
+
+RewriteRule ^t8216$ page153568966.html [NC]
+RewriteRule ^t8216/$ page153568966.html [NC]
+
+RewriteRule ^moechnye_eko$ page153569336.html [NC]
+RewriteRule ^moechnye_eko/$ page153569336.html [NC]
+
+RewriteRule ^moechnye_lk$ page153569346.html [NC]
+RewriteRule ^moechnye_lk/$ page153569346.html [NC]
+
+RewriteRule ^moechnye_ak$ page153569356.html [NC]
+RewriteRule ^moechnye_ak/$ page153569356.html [NC]
+
+RewriteRule ^smg1500$ page154564986.html [NC]
+RewriteRule ^smg1500/$ page154564986.html [NC]
+
+RewriteRule ^3m9735130$ page154564996.html [NC]
+RewriteRule ^3m9735130/$ page154564996.html [NC]
+
+RewriteRule ^3m9735150$ page154565006.html [NC]
+RewriteRule ^3m9735150/$ page154565006.html [NC]
+
+RewriteRule ^3m9740c130$ page154565026.html [NC]
+RewriteRule ^3m9740c130/$ page154565026.html [NC]
+
+RewriteRule ^3m9740c150$ page154565036.html [NC]
+RewriteRule ^3m9740c150/$ page154565036.html [NC]
+
+RewriteRule ^tsm-850$ page154565046.html [NC]
+RewriteRule ^tsm-850/$ page154565046.html [NC]
+
+RewriteRule ^bm200$ page154566126.html [NC]
+RewriteRule ^bm200/$ page154566126.html [NC]
+
+RewriteRule ^t200d$ page154566136.html [NC]
+RewriteRule ^t200d/$ page154566136.html [NC]
+
+RewriteRule ^tx200d$ page154566166.html [NC]
+RewriteRule ^tx200d/$ page154566166.html [NC]
+
+RewriteRule ^txm200d$ page154566176.html [NC]
+RewriteRule ^txm200d/$ page154566176.html [NC]
+
+RewriteRule ^bv120$ page154667726.html [NC]
+RewriteRule ^bv120/$ page154667726.html [NC]
+
+RewriteRule ^bv60$ page154667736.html [NC]
+RewriteRule ^bv60/$ page154667736.html [NC]
+
+RewriteRule ^bv60s$ page154667746.html [NC]
+RewriteRule ^bv60s/$ page154667746.html [NC]
+
+RewriteRule ^bv90$ page154667766.html [NC]
+RewriteRule ^bv90/$ page154667766.html [NC]
+
+RewriteRule ^ld180a$ page154667776.html [NC]
+RewriteRule ^ld180a/$ page154667776.html [NC]
+
+RewriteRule ^ld180l$ page154667786.html [NC]
+RewriteRule ^ld180l/$ page154667786.html [NC]
+
+RewriteRule ^ld180lplus$ page154667796.html [NC]
+RewriteRule ^ld180lplus/$ page154667796.html [NC]
+
+RewriteRule ^ld180s$ page154667806.html [NC]
+RewriteRule ^ld180s/$ page154667806.html [NC]
+
+RewriteRule ^tendtool_tl120$ page154667816.html [NC]
+RewriteRule ^tendtool_tl120/$ page154667816.html [NC]
+
+RewriteRule ^tendtooltl120xl$ page154667826.html [NC]
+RewriteRule ^tendtooltl120xl/$ page154667826.html [NC]
+
+RewriteRule ^vt60$ page154667836.html [NC]
+RewriteRule ^vt60/$ page154667836.html [NC]
+
+RewriteRule ^ld100l$ page154672816.html [NC]
+RewriteRule ^ld100l/$ page154672816.html [NC]
+
+RewriteRule ^ld100s$ page154672826.html [NC]
+RewriteRule ^ld100s/$ page154672826.html [NC]
+
+RewriteRule ^lb1000$ page154674186.html [NC]
+RewriteRule ^lb1000/$ page154674186.html [NC]
+
+RewriteRule ^lb2300$ page154674196.html [NC]
+RewriteRule ^lb2300/$ page154674196.html [NC]
+
+RewriteRule ^t8120sf$ page154674206.html [NC]
+RewriteRule ^t8120sf/$ page154674206.html [NC]
+
+RewriteRule ^3m9816$ page154675786.html [NC]
+RewriteRule ^3m9816/$ page154675786.html [NC]
+
+RewriteRule ^3mb9817$ page154675796.html [NC]
+RewriteRule ^3mb9817/$ page154675796.html [NC]
+
+RewriteRule ^th170d$ page154675806.html [NC]
+RewriteRule ^th170d/$ page154675806.html [NC]
+
+RewriteRule ^vhm170$ page154675816.html [NC]
+RewriteRule ^vhm170/$ page154675816.html [NC]
+
+RewriteRule ^12psdw$ page155262926.html [NC]
+RewriteRule ^12psdw/$ page155262926.html [NC]
+
+RewriteRule ^12psdw-a-150$ page155262956.html [NC]
+RewriteRule ^12psdw-a-150/$ page155262956.html [NC]
+
+RewriteRule ^nt3000$ page155262966.html [NC]
+RewriteRule ^nt3000/$ page155262966.html [NC]
+
+RewriteRule ^12psb$ page155262976.html [NC]
+RewriteRule ^12psb/$ page155262976.html [NC]
+
+RewriteRule ^12psb-mini$ page155262986.html [NC]
+RewriteRule ^12psb-mini/$ page155262986.html [NC]
+
+RewriteRule ^cr3000a-708$ page155262996.html [NC]
+RewriteRule ^cr3000a-708/$ page155262996.html [NC]
+
+RewriteRule ^cr-966$ page155263016.html [NC]
+RewriteRule ^cr-966/$ page155263016.html [NC]
+
+RewriteRule ^nts-815a$ page155263026.html [NC]
+RewriteRule ^nts-815a/$ page155263026.html [NC]
+
+RewriteRule ^nts-815apro$ page155263036.html [NC]
+RewriteRule ^nts-815apro/$ page155263036.html [NC]
+
+RewriteRule ^nti-1010$ page155263056.html [NC]
+RewriteRule ^nti-1010/$ page155263056.html [NC]
+
+RewriteRule ^nti-318pro$ page155263076.html [NC]
+RewriteRule ^nti-318pro/$ page155263076.html [NC]
+
+RewriteRule ^nts-300$ page155263066.html [NC]
+RewriteRule ^nts-300/$ page155263066.html [NC]
+
+RewriteRule ^eps-208pro$ page155263086.html [NC]
+RewriteRule ^eps-208pro/$ page155263086.html [NC]
+
+RewriteRule ^cr-819$ page155262946.html [NC]
+RewriteRule ^cr-819/$ page155262946.html [NC]
+
+RewriteRule ^nts919-pro$ page154676786.html [NC]
+RewriteRule ^nts919-pro/$ page154676786.html [NC]
+
+RewriteRule ^nt-d6$ page155144726.html [NC]
+RewriteRule ^nt-d6/$ page155144726.html [NC]
+
+RewriteRule ^nym930$ page155144746.html [NC]
+RewriteRule ^nym930/$ page155144746.html [NC]
+
+RewriteRule ^cr1020$ page155144766.html [NC]
+RewriteRule ^cr1020/$ page155144766.html [NC]
+
+RewriteRule ^tl200$ page155174766.html [NC]
+RewriteRule ^tl200/$ page155174766.html [NC]
+
+RewriteRule ^heui305$ page155144796.html [NC]
+RewriteRule ^heui305/$ page155144796.html [NC]
+
+

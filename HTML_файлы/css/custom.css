@@ -1,0 +1,10 @@
+@media screen and (min-width: 960px) {
+  .t396__artboard-flex:has(> .t396__group .tn-elem[data-elem-type="gallery"]) {
+    overflow: clip !important;
+  }
+  .t396__artboard-flex > .t396__group:has(.tn-elem[data-elem-type="gallery"]) {
+    position: sticky !important;
+    top: 20px !important;
+    align-self: flex-start !important;
+  }
+}
