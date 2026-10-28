@@ -11,17 +11,6 @@
     </categories>
     <offers>
       <offer id="1" type="vendor.model" available="true">
-        <url>/t8210e</url>
-        <price>1170000</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>0</categoryId>
-        <model>РСРРРР РРС СРССРСРРё РРСС Рё РРёРРР</model>
-        <typePrefix>Default</typePrefix>
-        <name>РЎС‚Р°РЅРѕРє РґР»СЏ СЂР°СЃС‚РѕС‡РєРё РІРµСЂС…. Рё РЅРёР¶РЅРµР№ РіРѕР»РѕРІРєРё С€Р°С‚СѓРЅР° T8210E</name>
-        <picture>images/tild3737-3934-4765-a138-373932363762__t8210e.jpg</picture>
-        <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
-      </offer>
-      <offer id="2" type="vendor.model" available="true">
         <url>/moechnye_eko</url>
         <price>175000</price>
         <currencyId>RUB</currencyId>
@@ -32,40 +21,7 @@
         <picture>images/tild3565-3465-4364-b238-656130633730__eko.jpg</picture>
         <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
       </offer>
-      <offer id="3" type="vendor.model" available="true">
-        <url>/12psdw</url>
-        <price>610000</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>0</categoryId>
-        <model>РСРРР 12PSDW</model>
-        <typePrefix>Default</typePrefix>
-        <name>РЎС‚РµРЅРґ 12PSDW</name>
-        <picture>images/tild3163-3764-4338-a161-623230373435__12psdw.png</picture>
-        <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
-      </offer>
-      <offer id="4" type="vendor.model" available="true">
-        <url>/3m9816</url>
-        <price>615000</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>0</categoryId>
-        <model>РРССРёРРРСРР СРРРёРРРРРРСРСР ССРР</model>
-        <typePrefix>Default</typePrefix>
-        <name>Р’РµСЂС‚РёРєР°Р»СЊРЅРѕ С…РѕРЅРёРЅРіРѕРІР°Р»СЊРЅС‹Р№ СЃС‚Р°РЅРѕРє 3Рњ9816</name>
-        <picture>images/tild3733-3836-4163-a330-613835373763__39816.jpg</picture>
-        <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
-      </offer>
-      <offer id="5" type="vendor.model" available="true">
-        <url>/smg1500</url>
-        <price>2400000</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>0</categoryId>
-        <model>РСРРРР РРС РРСРРРСРРё РРРРССРРССР</model>
-        <typePrefix>Default</typePrefix>
-        <name>РЎС‚Р°РЅРѕРє РґР»СЏ РѕР±СЂР°Р±РѕС‚РєРё РїРѕРІРµСЂС…РЅРѕСЃС‚РµР№ Р“Р‘Р¦ SMG1500</name>
-        <picture>images/tild6236-3236-4562-b266-313531626438__smg1500.jpg</picture>
-        <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
-      </offer>
-      <offer id="6" type="vendor.model" available="true">
+      <offer id="2" type="vendor.model" available="true">
         <url>/ld100l</url>
         <price>395000</price>
         <currencyId>RUB</currencyId>
@@ -76,7 +32,40 @@
         <picture>images/tild3332-6333-4636-a461-373534663535__ld100l_2.jpg</picture>
         <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
       </offer>
-      <offer id="7" type="vendor.model" available="true">
+      <offer id="3" type="vendor.model" available="true">
+        <url>/bv120</url>
+        <price>2770000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>0</categoryId>
+        <model>РСРРРР РРС РРСРРРСРРё СРСРРё СРРРР</model>
+        <typePrefix>Default</typePrefix>
+        <name>РЎС‚Р°РЅРѕРє РґР»СЏ РѕР±СЂР°Р±РѕС‚РєРё С„Р°СЃРєРё СЃРµРґР»Р° РєР»Р°РїР°РЅРѕРІ BV120</name>
+        <picture>images/tild3364-3039-4332-b432-393465336539__bv120.jpg</picture>
+        <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
+      </offer>
+      <offer id="4" type="vendor.model" available="true">
+        <url>/smg1500</url>
+        <price>2400000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>0</categoryId>
+        <model>РСРРРР РРС РРСРРРСРРё РРРРССРРССР</model>
+        <typePrefix>Default</typePrefix>
+        <name>РЎС‚Р°РЅРѕРє РґР»СЏ РѕР±СЂР°Р±РѕС‚РєРё РїРѕРІРµСЂС…РЅРѕСЃС‚РµР№ Р“Р‘Р¦ SMG1500</name>
+        <picture>images/tild6236-3236-4562-b266-313531626438__smg1500.jpg</picture>
+        <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
+      </offer>
+      <offer id="5" type="vendor.model" available="true">
+        <url>/12psdw</url>
+        <price>610000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>0</categoryId>
+        <model>РСРРР 12PSDW</model>
+        <typePrefix>Default</typePrefix>
+        <name>РЎС‚РµРЅРґ 12PSDW</name>
+        <picture>images/tild3163-3764-4338-a161-623230373435__12psdw.png</picture>
+        <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
+      </offer>
+      <offer id="6" type="vendor.model" available="true">
         <url>/ld-1650</url>
         <price>615000</price>
         <currencyId>RUB</currencyId>
@@ -87,7 +76,7 @@
         <picture>images/tild3962-3963-4131-a363-303861363662__ld-1650.jpg</picture>
         <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
       </offer>
-      <offer id="8" type="vendor.model" available="true">
+      <offer id="7" type="vendor.model" available="true">
         <url>/bm200</url>
         <price>2480000</price>
         <currencyId>RUB</currencyId>
@@ -96,6 +85,17 @@
         <typePrefix>Default</typePrefix>
         <name>Р’РµСЂС‚РёРєР°Р»СЊРЅРѕ-СЂР°СЃС‚РѕС‡РЅРѕР№ СЃС‚Р°РЅРѕРє СЃ С„СѓРЅРєС†РёРµР№ С„СЂРµР·РµСЂРѕРІРєРё РїР»РѕСЃРєРѕСЃС‚Рё BM200</name>
         <picture>images/tild6364-6330-4561-a433-343133373365__bm200.jpg</picture>
+        <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
+      </offer>
+      <offer id="8" type="vendor.model" available="true">
+        <url>/3m9816</url>
+        <price>615000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>0</categoryId>
+        <model>РРССРёРРРСРР СРРРёРРРРРРСРСР ССРР</model>
+        <typePrefix>Default</typePrefix>
+        <name>Р’РµСЂС‚РёРєР°Р»СЊРЅРѕ С…РѕРЅРёРЅРіРѕРІР°Р»СЊРЅС‹Р№ СЃС‚Р°РЅРѕРє 3Рњ9816</name>
+        <picture>images/tild3733-3836-4163-a330-613835373763__39816.jpg</picture>
         <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
       </offer>
       <offer id="9" type="vendor.model" available="true">
@@ -110,14 +110,14 @@
         <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
       </offer>
       <offer id="10" type="vendor.model" available="true">
-        <url>/bv120</url>
-        <price>2770000</price>
+        <url>/t8210e</url>
+        <price>1170000</price>
         <currencyId>RUB</currencyId>
         <categoryId>0</categoryId>
-        <model>РСРРРР РРС РРСРРРСРРё СРСРРё СРРРР</model>
+        <model>РСРРРР РРС СРССРСРРё РРСС Рё РРёРРР</model>
         <typePrefix>Default</typePrefix>
-        <name>РЎС‚Р°РЅРѕРє РґР»СЏ РѕР±СЂР°Р±РѕС‚РєРё С„Р°СЃРєРё СЃРµРґР»Р° РєР»Р°РїР°РЅРѕРІ BV120</name>
-        <picture>images/tild3364-3039-4332-b432-393465336539__bv120.jpg</picture>
+        <name>РЎС‚Р°РЅРѕРє РґР»СЏ СЂР°СЃС‚РѕС‡РєРё РІРµСЂС…. Рё РЅРёР¶РЅРµР№ РіРѕР»РѕРІРєРё С€Р°С‚СѓРЅР° T8210E</name>
+        <picture>images/tild3737-3934-4765-a138-373932363762__t8210e.jpg</picture>
         <description>Бесплатная техподдержка на весь срок. Доставка по РФ. Гарантия. Работаем с 2015г.</description>
       </offer>
     </offers>
